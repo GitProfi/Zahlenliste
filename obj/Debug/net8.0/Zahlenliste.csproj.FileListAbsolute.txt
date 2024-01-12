@@ -1,0 +1,14 @@
+C:\Users\leonr\Git\Zahlenliste\bin\Debug\net8.0\Zahlenliste.exe
+C:\Users\leonr\Git\Zahlenliste\bin\Debug\net8.0\Zahlenliste.deps.json
+C:\Users\leonr\Git\Zahlenliste\bin\Debug\net8.0\Zahlenliste.runtimeconfig.json
+C:\Users\leonr\Git\Zahlenliste\bin\Debug\net8.0\Zahlenliste.dll
+C:\Users\leonr\Git\Zahlenliste\bin\Debug\net8.0\Zahlenliste.pdb
+C:\Users\leonr\Git\Zahlenliste\obj\Debug\net8.0\Zahlenliste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonr\Git\Zahlenliste\obj\Debug\net8.0\Zahlenliste.AssemblyInfoInputs.cache
+C:\Users\leonr\Git\Zahlenliste\obj\Debug\net8.0\Zahlenliste.AssemblyInfo.cs
+C:\Users\leonr\Git\Zahlenliste\obj\Debug\net8.0\Zahlenliste.csproj.CoreCompileInputs.cache
+C:\Users\leonr\Git\Zahlenliste\obj\Debug\net8.0\Zahlenliste.dll
+C:\Users\leonr\Git\Zahlenliste\obj\Debug\net8.0\refint\Zahlenliste.dll
+C:\Users\leonr\Git\Zahlenliste\obj\Debug\net8.0\Zahlenliste.pdb
+C:\Users\leonr\Git\Zahlenliste\obj\Debug\net8.0\Zahlenliste.genruntimeconfig.cache
+C:\Users\leonr\Git\Zahlenliste\obj\Debug\net8.0\ref\Zahlenliste.dll

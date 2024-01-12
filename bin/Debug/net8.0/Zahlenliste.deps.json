@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zahlenliste/1.0.0": {
+        "runtime": {
+          "Zahlenliste.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zahlenliste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
